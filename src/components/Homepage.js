@@ -13,7 +13,7 @@ const Homepage = () => {
     return (
         <div className="container">
             <h1>Welcome to my blog</h1>
-            <p className="subtitle">Home of unlimited news.</p>
+            <p className="subtitle">Home of unlimited news and updates.</p>
             <hr />
 
             <div className="posts-list">
