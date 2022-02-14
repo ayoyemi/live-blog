@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  /* text-align: center; */
+  /* margin: 0 10px; */
+  /* color: #333; */
+}
+
+.navbar {
+  display: flex;
+  max-width: 600px;
+  margin: 10px auto;
+  padding: 20px;
+  align-items: center;
+  
+}
+
+.navbar h1 {
+  color: blue;
+  margin-right: 50px;
+}
+
+.navbar a {
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 50px;
+}
+
+.navbar a:hover {
+  background-color: blue;
+  color: white;
+  transition: 0.7s;
+}
+
+.content {
+  max-width: 650px;
+  margin: 10px auto;
+  padding: 20px;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+.container hr {
+  margin-bottom: 20px;
+}
+
+.container .subtitle {
+  margin-bottom: 10px;
+}
+
+.container .post-preview {
+  line-height: 30px;
+  text-align: justify;
+}
+
+.posts-preview {
+ margin: 10px;
+ height: auto;
+ border-bottom: 4px solid #fafafa;
+}
+
+.posts-preview:hover{
+  box-shadow: 1px 3px 5px rgba(0, 0, 255, 0.1);
+}
+
+.post-title {
+  color: blue;
+}
+
+.post-title a {
+  color: blue;
+  text-decoration: none;
+}
+
+.post-title a:hover {
+  color: #000080;
+  transition: 0.5s;
+}
+
+.post-details {
+  margin: 5px 0;
+  width: fit-content;
+  border-bottom: 1px solid #ccc;
+}
+.post-details img {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+
+.deleteBtn{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.deleteBtn button {
+  background-color: red;
+  color: white;
+  font-size: 15px;
+  border-radius: 6px;
+  padding: 3px;
+  font-weight:bold;
+  cursor: pointer;
+}
+
+.post-body-preview {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: 400px;
+}
+
+.form {
+  max-width: 400px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.form label {
+  text-align: left;
+  display: block;
+  color: #00f;
+}
+
+.form input, textarea, select {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  display: block;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.form button {
+  padding: 10px;
+  background-color: #00f;
+  color: #fff;
+  border-radius: 8px;
+  border: 0;
+  cursor: pointer;
+  font-size: medium;
+  margin-top: 10px;
+  width: 100%;
+}
+
+.delete-post {
+  padding: 8px;
+  background-color: #f00;
+  color: #fff;
+  border-radius: 6px;
+  border: 0;
+  cursor: pointer;
+  margin: 10px 40%;
+}
+
+.dont-have {
+  margin-top: 15px;
+}
+
+.error-msg {
+  color: red;
+  text-align: center;
+}

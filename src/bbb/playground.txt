@@ -1,0 +1,21 @@
+counter example
+ // const message = `Hello, you have clicked this button ${counter} times`;
+    const [name, setName] = useState("Ayoyemi");
+    const [age, setAge] = useState(20);
+    const [counter, setCounter] = useState(0);
+
+    const handleClick = () => {
+        setName('Ayomide');
+        setAge(25);
+        setCounter(counter + 1);
+    }
+
+     <p>{`Welcome ${name}, and your age ${age}`}</p>
+            <p>{`Hello, you have clicked this button ${counter} times`}</p>
+            <button onClick={handleClick}>Click here</button>
+
+const [articles, setArticles] = useState([
+        {id: 1, author: "Ayo", title: "My favourite things", body: "Lorem Ipsum"},
+        {id: 2, author: "Ade", title: "My favourite things", body: "Lorem Ipsum"},
+        {id: 3, author: "Yemi", title: "My favourite things", body: "Lorem Ipsum"}
+    ])

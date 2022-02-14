@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Ayo",
+      "title": "What is Lorem Ipsum",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+    },
+    {
+      "id": 2,
+      "author": "Ade",
+      "title": "Lorem Ipsum sample",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eget faucibus neque. Quisque semper mauris eget enim tincidunt, eu sollicitudin lacus ullamcorper. Mauris diam erat, egestas sit amet tellus at, pretium pellentesque augue. Donec id aliquet quam. Integer ut urna lacus. Cras nec mi eget est molestie efficitur in vitae felis. Ut vulputate diam augue, at eleifend urna tempus sit amet. Donec malesuada finibus ligula eget efficitur. Maecenas imperdiet quam non orci semper, nec porta urna sagittis. Maecenas mattis vitae arcu sit amet viverra. Mauris et elit in nisi porttitor finibus id sed diam. Pellentesque felis nisi, tristique vitae mauris aliquet, convallis ultricies nisl. Donec bibendum mi eget elit sollicitudin, sit amet sodales velit vehicula. Integer ut urna non ipsum hendrerit scelerisque ut vulputate purus. Aenean maximus at purus ac sodales. Suspendisse suscipit rutrum eros et ullamcorper. Pellentesque id finibus tortor, quis ultricies nibh. Suspendisse id rhoncus elit, ac scelerisque eros. Vivamus ultricies semper quam ut aliquam. Mauris at feugiat urna. Sed feugiat ornare tortor vitae dictum. Praesent ornare est rutrum nunc porttitor, ac vulputate magna rutrum. Sed diam lorem, hendrerit id mi interdum, ultricies ultricies elit. Pellentesque lacinia sed sapien ut auctor. Donec bibendum, diam ac gravida interdum, massa felis bibendum metus, vel pulvinar leo libero vitae tortor. Cras lobortis, lorem quis vehicula aliquam, metus lacus dictum magna, et pellentesque velit ex et nibh. Sed sed elementum velit. Praesent ornare, orci vitae facilisis lacinia, diam lorem fringilla velit, ac vestibulum nunc ante quis neque. In sit amet neque tortor. Donec consequat ornare neque at consectetur. Quisque pharetra blandit nulla, sit amet sodales risus convallis vel. Donec blandit tellus quis leo viverra dictum. Curabitur mollis ullamcorper posuere. Fusce congue viverra arcu, non rutrum tellus. Vivamus pretium nulla orci, at interdum leo faucibus sit amet. Donec ultricies scelerisque mi, ac interdum orci tempor sit amet. Integer maximus tincidunt luctus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque facilisis accumsan sem in fermentum. Curabitur tempus a libero at maximus. Vestibulum vel turpis ac nulla rutrum iaculis vel at lectus. Mauris facilisis nisi at orci imperdiet imperdiet. Phasellus leo orci, luctus nec vulputate nec, vulputate et odio. Nulla in rutrum odio, at commodo nisl. Sed lobortis neque vitae neque ultrices varius. Aenean gravida libero in arcu bibendum ultricies. Integer dictum faucibus magna, ac dapibus orci. Quisque dui elit, volutpat eu elementum id, faucibus ut velit. Nam nisl diam, condimentum vel arcu ut, imperdiet egestas nisi. Nulla ac ex varius, ornare arcu nec, molestie est. Nullam cursus finibus tristique. Vivamus viverra pretium maximus. Nullam sed nunc nec ante placerat lobortis eu quis dolor. Phasellus lobortis metus nec arcu molestie, vel iaculis lorem egestas. Suspendisse et vehicula ex, id dapibus dui. Sed a mattis libero."
+    },
+    {
+      "id": 3,
+      "author": "Yemi",
+      "title": "Where deos Lorem come from",
+      "body": "Where does it come from?\n Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of 'de Finibus Bonorum et Malorum' (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32."
+    },
+    {
+      "title": "I am happy",
+      "body": "Christmas is around the corner",
+      "author": "Ayo",
+      "id": 4
+    }
+  ],
+  "userDetails": [
+    {
+      "firstname": "Ayo",
+      "lastname": "Yemi",
+      "username": "ayoyemi",
+      "email": "krmayomide@gmail.com",
+      "password": "ayoyemi",
+      "bio": "Frontend developer with HTML, CSS, Bootstrap, JavaScript and ReactJS experience",
+      "id": 1
+    },
+    {
+      "firstname": "Ayomide",
+      "lastname": "Adeyemi",
+      "username": "ayomide",
+      "email": "ayoyemi@mail.com",
+      "password": "ayomide",
+      "bio": "I am a frontend developer.",
+      "id": 2
+    }
+  ]
+}
